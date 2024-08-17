@@ -30,7 +30,7 @@
     <img align="center" src="https://img.shields.io/badge/-Facebook-blueviolet?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://codeforces.com/profile/Sajid_Afnan" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-SAJID-orange?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+    <img align="center" src="https://img.shields.io/badge/-SAJID-orange?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 <!-- <a href="https://discord.gg/Asif#0077" target="_blank"><img align="center" src="https://img.shields.io/badge/-Asif%230077-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/Asif#0077" alt="Discord"/></a>
 </p> -->
