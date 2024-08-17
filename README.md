@@ -27,6 +27,9 @@
   <a href="https://linkedin.com/in/sajid-afnan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+ <a href="https://x.com/M_Sajid_Afnan?t=rKHZ_cv9bHydDF9WYmfogg&s=07" target="_blank">
+    <img src="https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=X&logoColor=black" target="_blank" />
+  </a>
   <!-- <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options
   </a> -->
@@ -38,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,c,java,mysql,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,mongodb,c,c++,java,mysql,tailwind" /><br>
 </div>
 
 <br/>
