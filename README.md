@@ -17,8 +17,25 @@
 💬 Ask me about **React or anything [here](https://github.com/SAJID-AFNAN/SAJID-AFNAN/issues)**
 
  </div>
+
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:sajidafnan91@gmail.com">
+    <img alt="Gmail" align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://linkedin.com/in/sajid-afnan" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/md.afnan.14473" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Facebook-blueviolet?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://codeforces.com/profile/Sajid_Afnan" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-SAJID-orange?style=flat-square&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+<!-- <a href="https://discord.gg/Asif#0077" target="_blank"><img align="center" src="https://img.shields.io/badge/-Asif%230077-blueviolet?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/Asif#0077" alt="Discord"/></a>
+</p> -->
  
-<div align="center"> 
+<!--<div align="center"> 
   <a href="mailto:sajidafnan91@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -31,7 +48,7 @@
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options
   </a>
-</div>
+</div> -->
 
  <hr/>
  
