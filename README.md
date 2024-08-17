@@ -16,8 +16,6 @@
 
 💬 Ask me about **React or anything [here](https://github.com/SAJID-AFNAN/SAJID-AFNAN/issues)**
 
-⚡ Fun fact **I am funny but not all time**
-
  </div>
  
 <div align="center"> 
@@ -30,9 +28,9 @@
  <a href="https://x.com/M_Sajid_Afnan?t=rKHZ_cv9bHydDF9WYmfogg&s=07" target="_blank">
     <img src="https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=X&logoColor=black" target="_blank" />
   </a>
-  <!-- <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options
-  </a> -->
+  </a>
 </div>
 
  <hr/>
@@ -41,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,c,c++,java,mysql,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,mongodb,c,java,mysql,tailwind" /><br>
 </div>
 
 <br/>
